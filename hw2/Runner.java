@@ -3,14 +3,11 @@ package hw2;
 public class Runner {
 
     static void printText() {
-        String text="Text text text";
+        String textA="Text text text";
         System.out.println("First program: ");
         System.out.println("Test test test\n");
-        System.out.println(text+"\n");
+        System.out.println(textA+"\n");
 
-        System.out.println("------");
-
-        System.out.println(text+"\n");
     }
 
     static void degreeConverter(double celsius) {
