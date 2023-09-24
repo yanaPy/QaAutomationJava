@@ -8,6 +8,8 @@ public class Runner {
         System.out.println("Test test test\n");
         System.out.println(textA+"\n");
 
+        System.out.println(-----);
+
     }
 
     static void degreeConverter(double celsius) {
