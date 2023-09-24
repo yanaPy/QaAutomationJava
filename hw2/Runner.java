@@ -19,6 +19,9 @@ public class Runner {
 
         System.out.println(celsius + " Celsius: \n" + fahrenheit +
                 " Fahrenheit; \n" + kelvin + " Kelvin.\n");
+
+        System.out.println("------");
+
     }
 
     static void calcRectangleArea(int a, int b) {
