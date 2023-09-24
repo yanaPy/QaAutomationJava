@@ -5,6 +5,9 @@ public class Runner {
     static void printText() {
         System.out.println("First program: ");
         System.out.println("Text text text\n");
+
+        System.out.println("------");
+
     }
 
     static void degreeConverter(double celsius) {
