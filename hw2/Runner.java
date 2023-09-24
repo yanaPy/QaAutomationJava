@@ -4,7 +4,7 @@ public class Runner {
 
     static void printText() {
         System.out.println("First program: ");
-        System.out.println("Text text text\n");
+        System.out.println("Test test test\n");
 
         System.out.println("------");
 
