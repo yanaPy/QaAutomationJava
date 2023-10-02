@@ -13,7 +13,6 @@ public class CheckOddEven {
         String result = num % 2 == 0 ? "Even number" : "Odd number";
         System.out.println(result);
 
-
 //        if (num % 2 == 0) {
 //            System.out.println("Even number");
 //        } else if (num % 2 != 0) {

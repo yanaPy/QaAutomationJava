@@ -9,7 +9,7 @@ public class Runner {
         PrintMonthInWord.printMonthInWord();
         CompareAbsoluteValues.compareAbsoluteValues(0, -9);
         TriangleIsoscelesCheck.triangleIsoscelesCheck(2, 2, 4);
-        ReturnMiddleMarks.returnMiddleMarks("Java");
+        ReturnMiddleMarks.returnMiddleMarks("Hometask");
 
     }
 
