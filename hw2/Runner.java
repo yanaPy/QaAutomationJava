@@ -6,7 +6,6 @@ public class Runner {
         String text="Text text text";
         System.out.println("First program: ");
         System.out.println(text+"\n");
-        System.out.println(-----);
 
     }
 
@@ -19,9 +18,6 @@ public class Runner {
 
         System.out.println(celsius + " Celsius: \n" + fahrenheit +
                 " Fahrenheit; \n" + kelvin + " Kelvin.\n");
-
-        System.out.println("------");
-
     }
 
     static void calcRectangleArea(int a, int b) {
