@@ -13,7 +13,7 @@ public class Runner {
         String text = "А роза упала на лапу Азора";
         String text2 = "А роза на лапу Азора";
 
-        int[] array = {-5, -1, 60, 0, 55, 48};
+        int[] array = {-5, -1, 60, 0, 55, 69};
         int[][] array2 = {
                 {-1, -2, 0},
                 {-2,3000,4},

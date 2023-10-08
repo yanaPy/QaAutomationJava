@@ -10,8 +10,7 @@ public class ChangeArray {
 
         int[] copyArray = new int[array.length];
 
-        for (int i = 0; i < array.length - 1; i++) {
-
+        for (int i = 0; i < array.length; i++) {
             if (array[i] % 2 == 0) {
                 copyArray[i] = 0;
             } else {
